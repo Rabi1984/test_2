@@ -2,7 +2,7 @@
 	displayBlock="true" xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="branch_3_2_4"  >
+			<Page title="branch_3_2_4_new"  >
 				<content></content>
 			</Page>
 		</pages>
