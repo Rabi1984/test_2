@@ -2,7 +2,7 @@
 	displayBlock="true" xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="test1" >
+			<Page title="test1changeatgit.hub" >
 				<content></content>
 			</Page>
 		</pages>
